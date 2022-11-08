@@ -1,16 +1,11 @@
 # dicee
+Created by: Raouf meghaoui
 
-A new Flutter project.
+### screenshot
+![image](https://user-images.githubusercontent.com/72553155/200549793-235333d0-a205-4156-88a4-3c2417c6a17b.png)
 
-## Getting Started
+## Description
+In this course, we learn how to use buttons and work with events.
+the objective of this application is very simple, when the user push any face of the dice,
+we get a random faces for the dices, like real game.
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
